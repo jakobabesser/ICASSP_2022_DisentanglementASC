@@ -2,9 +2,8 @@
 
 ## Reference
 
-<pre>
- Abeßer, J. & Müller, M. Towards Audio Domain Adaptation for Acoustic Scene Classification using Disentanglement Learning, submitted to: ICASSP 2022
-</pre>
+* Abeßer, J., & Müller, M. (2021). Towards Audio Domain Adaptation for Acoustic Scene Classification using Disentanglement Learning. 
+  * https://arxiv.org/pdf/2110.13586.pdf
 
 ## Related Work
 
